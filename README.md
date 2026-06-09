@@ -36,3 +36,21 @@ Practiced:
 
 - PostgreSQL
 - DBeaver
+
+## Day 5: Joins and Aggregations
+
+### Topics Covered
+- STRING_AGG()
+- GROUP BY ROLLUP
+- LEFT JOIN
+- RIGHT JOIN
+- FULL OUTER JOIN
+- CROSS JOIN
+
+### Skills Gained
+- Data aggregation
+- Revenue summarization
+- Table relationships
+- Data reconciliation
+- Inventory analysis
+- SQL reporting
